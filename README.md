@@ -47,7 +47,7 @@ A full-stack Learning Management System built using the **MERN** stack, providin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lmsf-main.git
+git clone https://github.com/29sujal/lmsf.git
 cd lmsf-main
 
 # Install frontend dependencies
